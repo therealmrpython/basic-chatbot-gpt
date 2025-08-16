@@ -18,5 +18,3 @@ pip install openai
 #dotenv to hide api secret key
 pip install dotenv
 
-
->>>>>>> fb825e2 (Subiendo proyecto inicial)
