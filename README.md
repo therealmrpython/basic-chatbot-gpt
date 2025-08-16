@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # basic-chatbot-gpt
 A basic and simple chatbot gpt . A human and a Robot talking.
 =======
@@ -10,7 +10,7 @@ py -3.11 -m venv env
 
 source env/Scripts/activate
 
-#DEPENDENCIAS
+#DEPENDENCIAS#
 
 #install openai
 pip install openai
